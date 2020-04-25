@@ -16,12 +16,10 @@
   },
   "lint-staged": {
     "*.{ts,tsx,js,jsx,css,scss,tsx,json,html,md,yml}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ],
     "yarn.lock": [
-      "yarn-deduplicate",
-      "git add"
+      "yarn-deduplicate"
     ]
   },
   "scripts": {
