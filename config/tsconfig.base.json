@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "composite": true,
+    "incremental": true,
+    "module": "esNext",
+    "declaration": true,
+    "declarationMap": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "jsx": "react",
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "strict": true
+  }
+}

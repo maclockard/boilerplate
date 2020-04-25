@@ -1,0 +1,12 @@
+# Typescript
+node_modules
+lib
+dist
+build
+yarn-debug.log
+yarn-error.log
+webpack-dist
+tsconfig.tsbuildinfo
+
+# MacOS
+.DS_Store
